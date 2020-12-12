@@ -10,3 +10,5 @@ I considered changing class 'float-left' and 'float-right' but after what we tal
 The id's for the main section were necessary as I couldn't figure out a better way to get the links in the nav to work without ids. 
 
 I did change the class seo in Horiseon to an id since that felt like a very specific instance. 
+
+It was suggested on mdn that we use something easily searchable that doesn't appear in our code to desonate sections. I used || as that isn't something that appears in my css. I did also straight up take it from the mdn page that suggested it. 
