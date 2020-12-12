@@ -1,6 +1,9 @@
 # hw-1-code-refactor
 Code refactoring work
 
+[Deployed website](https://a-andres1.github.io/hw-1-code-refactor/)
+
+
 The purpose of this assignment was get more familiar with refactoring. I really enjoyed the opportunity to learn more about organizing css. I find it highly interesting to see how css doesn't need to necessarily have to follow your html. In fact, based on how css works I suppose there are instances where that wouldn't make any sense. 
 
 My original idea was to go through and change all the divs to semantic tags and then tackle the css. I didn't like that. Too many things were broken too quickly for me to feel like I would understand how to put them back. Instead, I systematically went through and edited the divs by section and then changed the cooresponding css. 
