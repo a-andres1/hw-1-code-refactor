@@ -2,7 +2,7 @@
 Code refactoring work
 
 [Deployed website](https://a-andres1.github.io/hw-1-code-refactor/) 
-! [Screenshot of Deployed website](./assets/images/horiseonpage.png)
+[Screenshot of Deployed website](./assets/images/horiseonpage.png)
 
 
 The purpose of this assignment was get more familiar with refactoring. I really enjoyed the opportunity to learn more about organizing css. I find it highly interesting to see how css doesn't need to necessarily have to follow your html. In fact, based on how css works I suppose there are instances where that wouldn't make any sense. 
