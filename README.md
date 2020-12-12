@@ -27,5 +27,6 @@ Reminder that the entire time I was messing with the HTML, I was rename/editing/
 
 It was suggested on mdn that we use something easily searchable that doesn't appear in our code to desonate sections. I used || as that isn't something that appears in my css. 
 
+I feel good about the sections that I've made and that they feel logical and easily searchable. This css page does feel very long to me, I''m still on the fence currently about whether or not it would be less annoying as two pages. For me I'd leave all the tag styling on one page and split the classes/ids up onto another page. That feels like a rabbit hole I could easily fall down, because then what is stopping me from making a "body styling" page? Nothing. 
 
-
+I'm not going to do that though because I'm not convinced this length of css is worth the trouble of splitting up. It might be more annoying to need to constantly flit back and forth between windows. I'm sure more experience will help with these decisions. 
