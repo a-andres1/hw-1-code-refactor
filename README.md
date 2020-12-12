@@ -17,10 +17,15 @@ The main section was next. That was a mess. The divs - now sections - had classe
 
 I considered changing class 'float-left' and 'float-right' on the sections in main, but after what we talked about in class/what I read reguarding keeping classes to use for later styling for other elements I decided against changing them. 
 
-
-
 I did change the class seo in Horiseon to an id since that felt like a very specific instance. 
 
-It was suggested on mdn that we use something easily searchable that doesn't appear in our code to desonate sections. I used || as that isn't something that appears in my css. I did also straight up take it from the mdn page that suggested it. 
+Next was the aside. As I mention in my HTML, I left the classes on aside so that I could override the main section css. 
+
+At that point I felt that I had added as many semantic tags as I could and my page wasn't completely broken so I moved on to the css. 
+
+Reminder that the entire time I was messing with the HTML, I was rename/editing/deleting unnessecary css. So at this point it was really about figuring out how it was supposed to be structured. Our assignment said that our css should be structured "logically" without taking the sequence of the html into account. Which seemed weird at first but then I found a [great page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) over at mdn that helped explain what that mean. 
+
+It was suggested on mdn that we use something easily searchable that doesn't appear in our code to desonate sections. I used || as that isn't something that appears in my css. 
+
 
 
