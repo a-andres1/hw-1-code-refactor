@@ -60,11 +60,6 @@ li {
 }
 
 
-
-.seo {
-    color: #d9dcd6;
-}
-
 nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -73,6 +68,11 @@ nav{
     font-size: 20px;
 }
 
+
+/* ID for span used in H1 */
+#seo {
+    color: #d9dcd6;
+}
 
 
 .hero {
